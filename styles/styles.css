@@ -1,0 +1,123 @@
+.body { font-family: 'Montserrat', sans-serif; 
+background-color: #FFFFFF;}
+/* main information */
+.main {
+    display: flex;
+flex-direction: row-reverse;
+margin: 0 auto;
+width: 943px;
+height: 1319px;
+background-color: #F5F7FA;
+}
+/* Biography */
+.biography{
+    width: 400px;
+    height: 225px;
+    padding: 19px;
+    margin-left: 50px;
+}
+/* Projects */
+.projects{
+padding: 7px;
+margin-left: 40px;
+padding: 8px;
+}
+.mainbar {
+    margin-left: -25px;
+}
+.pro {
+    margin-left: 20px;
+}
+.hrefs {
+    font-size: 14px;
+    color: #595959;
+}
+.skills{
+    color: #FB6D3A;
+
+}
+/* Links in topic "Projects" */
+.Extra_elements{
+    color: black;
+    }
+    .jobs {
+        color: #595959;
+    }
+
+/* Work experience */
+.work_experience {
+    margin-left: 60px;
+padding: 8px;
+font-size: 14px;
+}
+/* Education */
+.education{
+
+   margin-left: 60px;
+    padding: 8px;
+  
+}
+h1 {
+font-size: 45px;
+}
+h2 {
+    font-size: 22px;
+}
+h3 {
+    font-size: 16px;
+}
+h4 {
+    font-size: 14px;
+    color: #595959;
+}
+h5 {
+    color: #595959;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #1E2939;
+    color: #FFFFFF;
+    width: 370px;
+    height: 1319px;
+}
+.image{
+    margin-top: 40px;
+    margin-bottom: 50px; }
+    /* Contacts */
+.contacts {
+    margin-left: 40px;
+    margin-bottom: 47px;
+    padding: 0;
+}
+.Tech_Skills  {
+    margin-top: 0;
+    margin-bottom: 44px;
+    margin-left: 20px;
+}
+.Soft_Skills {
+    margin-bottom: 366px;
+    margin-left: 20px;
+}
+.Email_and_phone{
+    color: #80868F;
+}
+.gmail {
+    color:#80868F ;
+}
+.skills_text{
+    color: #FFFFFF;
+    
+}
+
+.s {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.t {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.Go {
+    color: #1E2939;
+}
